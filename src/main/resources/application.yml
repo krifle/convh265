@@ -1,0 +1,4 @@
+logging:
+  level:
+    root: info
+  file: C:\Users\k_rif\OneDrive\Desktop\convh265.log
