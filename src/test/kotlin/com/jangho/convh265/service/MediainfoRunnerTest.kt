@@ -11,7 +11,7 @@ class MediainfoRunnerTest {
     @Test
     fun getMediainfo_h264_동작_테스트() {
         // given
-        val file = File("C:\\Users\\k_rif\\Downloads\\kaguya\\random_sample_001.avi")
+        val file = File("C:\\Users\\k_rif\\Downloads\\kaguya\\1.mp4")
 
         // when
         val result = sut.getMediainfo(file)
